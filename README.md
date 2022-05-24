@@ -1,1 +1,0 @@
-<img src="./assets/gif-ecommerce.gif" width="50%" height="50%"/>
